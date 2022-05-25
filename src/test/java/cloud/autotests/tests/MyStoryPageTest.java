@@ -11,11 +11,11 @@ import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class GeneratedTests extends TestBase {
+public class MyStoryPageTest extends TestBase {
 
     @Test
     @DisplayName("Тест страницы Women")
-    void checkingCardTest() {
+    void checkingWomenPageTest() {
         step("Открытие главной страницы", () -> {
             open("http://automationpractice.com/index.php");
         });
