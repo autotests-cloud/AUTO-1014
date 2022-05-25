@@ -1,4 +1,4 @@
-# Автоматизированное тестирование сайта Газпромбанк
+# Автоматизированное тестирование сайта магазина одежды MyStore
 
 > <a target="_blank" href="http://automationpractice.com/index.php">Ссылка на сайт MyStore</a>
 
